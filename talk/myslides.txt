@@ -1,0 +1,92 @@
+#= Django Translations
+##= for the next generation
+<img src="pictures/footer.svg" width="380px">
+---
+! wave
+---
+! thinking
+---
+##= en_AU
+---
+##= en_AU != en_US
+---
+##= colour
+---
+##= centre
+---
+##= aluminium
+---
+! thinking
+---
+@^ default_picture_1.png
+---
+@^ default_picture_2.png
+---
+! thinking
+---
+! lightbulb
+---
+##= en_US
+---
+##= en_AU
+---
+##= em_JI
+---
+@^ em_01.png
+---
+@^ em_02.png
+---
+@^ em_03.png
+---
+@^ em_04.png
+---
+@^ em_05.png
+---
+@^ em_06.png
+---
+@^ em_07.png
+---
+@^ em_08.png
+---
+##= em_JI
+---
+####= Complete Translations
+### be, ca, cs, da, de, dsb
+### el, en, eo, es, es_AR
+### fi, fr, gd, he, hsb
+### hu, id, it, ja, ko, lt
+### nl, pl, pt_BR, ru, sl
+### tr, uk, zh_CN
+---
+####= Need help
+###= nl_BE, et, en_AU, my
+### lb, gl, ga, nb, zh_TW
+### bg, sv, sk, ar, mn, pt
+### ro, es_CO, eu, sq, ls
+### & dozens more
+
+---
+
+#= tlh
+
+##- Klingon
+
+---
+
+@ tlh.png
+---
+
+! vulcan
+---
+###= docs.djangoproject.com/en/1.11/
+### internals/contributing/localizing/
+---
+<br>
+<br>
+<br>
+<img src="pictures/claps.svg" height="100px">
+
+#### glasnt.com/talks
+
+Note: thank you for your time.
+

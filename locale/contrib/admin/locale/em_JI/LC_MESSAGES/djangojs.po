@@ -1,0 +1,221 @@
+# This file is distributed under the same license as the Django package.
+#
+# Translators:
+# André Hagenbruch, 2011-2012
+# Jannis Leidel <jannis@leidel.info>, 2011,2013-2016
+# Jannis, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: django\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-17 23:12+0200\n"
+"PO-Revision-Date: 2016-07-26 11:31+0000\n"
+"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
+"Language-Team: German (http://www.transifex.com/django/django/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, javascript-format
+msgid "Available %s"
+msgstr "%s"
+
+#, javascript-format
+msgid ""
+"This is the list of available %s. You may choose some by selecting them in "
+"the box below and then clicking the \"Choose\" arrow between the two boxes."
+msgstr ""
+"Dies ist die Liste der verfügbaren %s. Einfach im unten stehenden Feld "
+"markieren und mithilfe des \"Auswählen\"-Pfeils auswählen."
+
+#, javascript-format
+msgid "Type into this box to filter down the list of available %s."
+msgstr ""
+"Durch Eingabe in diesem Feld lässt sich die Liste der verfügbaren %s "
+"eingrenzen."
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Choose all"
+msgstr "✅✨"
+
+#, javascript-format
+msgid "Click to choose all %s at once."
+msgstr "Klicken, um alle %s auf einmal auszuwählen."
+
+msgid "Choose"
+msgstr "Auswählen"
+
+msgid "Remove"
+msgstr "Entfernen"
+
+#, javascript-format
+msgid "Chosen %s"
+msgstr "✅ %s"
+
+#, javascript-format
+msgid ""
+"This is the list of chosen %s. You may remove some by selecting them in the "
+"box below and then clicking the \"Remove\" arrow between the two boxes."
+msgstr ""
+"Dies ist die Liste der ausgewählten %s. Einfach im unten stehenden Feld "
+"markieren und mithilfe des \"Entfernen\"-Pfeils wieder entfernen."
+
+msgid "Remove all"
+msgstr "🚫✨"
+
+#, javascript-format
+msgid "Click to remove all chosen %s at once."
+msgstr "🖱🔜🚫%s✨"
+
+msgid "%(sel)s of %(cnt)s selected"
+msgid_plural "%(sel)s / %(cnt)s ✅"
+msgstr[0] "%(sel)s / %(cnt)s ✅"
+msgstr[1] "%(sel)s / %(cnt)s ✅"
+
+msgid ""
+"You have unsaved changes on individual editable fields. If you run an "
+"action, your unsaved changes will be lost."
+msgstr ""
+"Sie haben Änderungen an bearbeitbaren Feldern vorgenommen und nicht "
+"gespeichert. Wollen Sie die Aktion trotzdem ausführen und Ihre Änderungen "
+"verwerfen?"
+
+msgid ""
+"You have selected an action, but you haven't saved your changes to "
+"individual fields yet. Please click OK to save. You'll need to re-run the "
+"action."
+msgstr ""
+"Sie haben eine Aktion ausgewählt, aber ihre vorgenommenen Änderungen nicht "
+"gespeichert. Klicken Sie OK, um dennoch zu speichern. Danach müssen Sie die "
+"Aktion erneut ausführen."
+
+msgid ""
+"You have selected an action, and you haven't made any changes on individual "
+"fields. You're probably looking for the Go button rather than the Save "
+"button."
+msgstr ""
+"Sie haben eine Aktion ausgewählt, aber keine Änderungen an bearbeitbaren "
+"Feldern vorgenommen. Sie wollten wahrscheinlich auf \"Ausführen\" und nicht "
+"auf \"Speichern\" klicken."
+
+#, javascript-format
+msgid "Note: You are %s hour ahead of server time."
+msgid_plural "Note: You are %s hours ahead of server time."
+msgstr[0] "⚠️: 🖥 ⬆️ %sh ⏰"
+msgstr[1] "⚠️: 🖥 ⬆️ %sh ⏰"
+
+#, javascript-format
+msgid "Note: You are %s hour behind server time."
+msgid_plural "Note: You are %s hours behind server time."
+msgstr[0] "⚠️: 🖥 ⬇️ %sh ⏰"
+msgstr[1] "⚠️: 🖥 ⬇️ %sh ⏰"
+
+msgid "Now"
+msgstr "🔝"
+
+msgid "Choose a Time"
+msgstr "👉⌚️"
+
+msgid "Choose a time"
+msgstr "👉⌚️"
+
+msgid "Midnight"
+msgstr "🕛🌙"
+
+msgid "6 a.m."
+msgstr "🕕☀️"
+
+msgid "Noon"
+msgstr "🕛☀️"
+
+msgid "6 p.m."
+msgstr "🕕🌙"
+
+msgid "Cancel"
+msgstr "🚫"
+
+msgid "Today"
+msgstr "📅"
+
+msgid "Choose a Date"
+msgstr "👉📆"
+
+msgid "Yesterday"
+msgstr "⬅️🗓"
+
+msgid "Tomorrow"
+msgstr "🗓➡️"
+
+msgid "January"
+msgstr "❄️2️⃣"
+
+msgid "February"
+msgstr "❄️2️⃣"
+
+msgid "March"
+msgstr "🌱1️⃣"
+
+msgid "April"
+msgstr "🌱2️⃣"
+
+msgid "May"
+msgstr "🌱3️⃣"
+
+msgid "June"
+msgstr "⛱1️⃣"
+
+msgid "July"
+msgstr "⛱2️⃣"
+
+msgid "August"
+msgstr "⛱3️⃣"
+
+msgid "September"
+msgstr "🍁1️⃣"
+
+msgid "October"
+msgstr "🍁2️⃣"
+
+msgid "November"
+msgstr "🍁3️⃣"
+
+msgid "December"
+msgstr "❄️1️⃣"
+
+msgctxt "one letter Sunday"
+msgid "S"
+msgstr "So"
+
+msgctxt "one letter Monday"
+msgid "M"
+msgstr "Mo"
+
+msgctxt "one letter Tuesday"
+msgid "T"
+msgstr "Di"
+
+msgctxt "one letter Wednesday"
+msgid "W"
+msgstr "Mi"
+
+msgctxt "one letter Thursday"
+msgid "T"
+msgstr "Do"
+
+msgctxt "one letter Friday"
+msgid "F"
+msgstr "Fr"
+
+msgctxt "one letter Saturday"
+msgid "S"
+msgstr "Sa"
+
+msgid "Show"
+msgstr "🙉"
+
+msgid "Hide"
+msgstr "🙈"
