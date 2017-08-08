@@ -14,7 +14,7 @@
 ---
 ##= centre
 ---
-##= aluminium
+##= localisation
 ---
 ! thinking
 ---
@@ -42,7 +42,20 @@
 ---
 @^ em_05.png
 ---
+##= 🔑➡️ 🤔💡 🔜🙅
+Note: Your password can't be too simliar to other personal information
+---
+##= 🔑➡️8️⃣🔤 
+Note: Your password must contain at least 8 characters
+---
+##= 🔑➡️ 🇵 🇦 🇸 🇸🔜🙅
+Note: Your password can't be a commonly used password
+---
+##=🔑 🔢🔢🔢 🔜 🙅
+Note: Your password can't be entirely numeric
+---
 @^ em_06.png
+Note: Note the strings that can't be translated
 ---
 @^ em_07.png
 ---
@@ -81,6 +94,8 @@
 ###= docs.djangoproject.com/en/1.11/
 ### internals/contributing/localizing/
 ---
+<br>
+<br>
 <br>
 <br>
 <br>

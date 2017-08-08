@@ -14,7 +14,7 @@
 ---
 ## centre <!-- .slide: class="center" -->
 ---
-## aluminium <!-- .slide: class="center" -->
+## localisation <!-- .slide: class="center" -->
 ---
  <div style='width: 50%; margin: 0 auto;'><p align='center'><img height='400px' src='pictures/thinking.svg'></p></div> <!-- .slide: class="center" -->
 ---
@@ -42,7 +42,20 @@
 ---
  <img src="pictures/em_05.png" style="margin-top: -50px" />
 ---
+## 🔑➡️ 🤔💡 🔜🙅 <!-- .slide: class="center" -->
+Note: Your password can't be too simliar to other personal information
+---
+## 🔑➡️8️⃣🔤 <!-- .slide: class="center" -->
+Note: Your password must contain at least 8 characters
+---
+## 🔑➡️ 🇵 🇦 🇸 🇸🔜🙅 <!-- .slide: class="center" -->
+Note: Your password can't be a commonly used password
+---
+##🔑 🔢🔢🔢 🔜 🙅 <!-- .slide: class="center" -->
+Note: Your password can't be entirely numeric
+---
  <img src="pictures/em_06.png" style="margin-top: -50px" />
+Note: Note the strings that can't be translated
 ---
  <img src="pictures/em_07.png" style="margin-top: -50px" />
 ---
@@ -81,6 +94,8 @@
 ### docs.djangoproject.com/en/1.11/ <!-- .slide: class="center" -->
 ### internals/contributing/localizing/
 ---
+<br> 
+<br> 
 <br> 
 <br> 
 <br> 
