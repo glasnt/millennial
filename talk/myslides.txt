@@ -1,36 +1,62 @@
 #= Django Translations
 ##= for the next generation
-<img src="pictures/footer.svg" width="380px">
+<img src="pictures/footer.svg" width="500px">
 ---
 ! wave
+Note: Hi, I'm katie
 ---
 ! thinking
+Note: and i've come to this reaisation recently, 
 ---
-##= en_AU
+#= en_US
+Note: I don't speak english
+
+well, american 
 ---
-##= en_AU != en_US
+#= en_AU
+Note: I speak aussie
 ---
-##= colour
+#= en_AU != en_US
+Note: Australian isn't the same as english
+
 ---
-##= centre
+#= colour
+Note: this is how I spell colour
 ---
-##= localisation
+#= centre
+Note: this is centre
+
+these make CSS really fun to try and code. 
+---
+#= localisation
+Note: because it's an issue of locatalisation. I like being able to use applicationa and programs in my language. 
 ---
 ! thinking
 ---
 @^ default_picture_1.png
+Note: this is the default django app
 ---
 @^ default_picture_2.png
+Note: it's great, if you speak american english
 ---
 ! thinking
+Note: but what about everyone else?
+---
+#= en_US
+Note: by default - american
+---
+#= en_AU
+Note: there's also some AU localations but it's not complete
+
+
 ---
 ! lightbulb
----
-##= en_US
----
-##= en_AU
+Note: but then, I also speak another lanuage
+
+so today, i'm releasing 
 ---
 ##= em_JI
+Note: the em_JI localisation 
 ---
 @^ em_01.png
 ---
@@ -42,16 +68,16 @@
 ---
 @^ em_05.png
 ---
-##= 🔑➡️ 🤔💡 🔜🙅
+#= 🔑➡️ 🤔💡 🔜🙅
 Note: Your password can't be too simliar to other personal information
 ---
-##= 🔑➡️8️⃣🔤 
+#= 🔑➡️8️⃣🔤 
 Note: Your password must contain at least 8 characters
 ---
-##= 🔑➡️ 🇵 🇦 🇸 🇸🔜🙅
+#= 🔑➡️ 🇵 🇦 🇸 🇸🔜🙅
 Note: Your password can't be a commonly used password
 ---
-##=🔑 🔢🔢🔢 🔜 🙅
+#=🔑 🔢🔢🔢 🔜 🙅
 Note: Your password can't be entirely numeric
 ---
 @^ em_06.png
@@ -61,9 +87,9 @@ Note: Note the strings that can't be translated
 ---
 @^ em_08.png
 ---
-##= em_JI
+#= em_JI
 ---
-####= Complete Translations
+####= Complete django translations
 ### be, ca, cs, da, de, dsb
 ### el, en, eo, es, es_AR
 ### fi, fr, gd, he, hsb
@@ -93,6 +119,7 @@ Note: Note the strings that can't be translated
 ---
 ###= docs.djangoproject.com/en/1.11/
 ### internals/contributing/localizing/
+Note: in all seriousness
 ---
 <br>
 <br>
